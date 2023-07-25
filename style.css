@@ -50,6 +50,7 @@ button {
 
 .timer > * {
   position: relative;
+  user-select: none;
 }
 
 .timer > *::after {
